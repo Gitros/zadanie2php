@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Kwiaty</title>
+    <link rel="stylesheet" href="styl.css">
+</head>
+<body>
+    <section id="baner">
+        <h1>Moje kwiaty</h1>
+    </section>
+
+    <section id="lewy-panel">
+        <h3>Kwiaty dla Ciebie!</h3>
+        <a href="https://www.swiatkwiatow.pl/">Rozpoznaj kwiaty</a>
+        <a href="znajdz.php">Znajdź kwiaciarnie</a>
+        <img src="gozdzik.jpg" alt="Goździk">
+    </section>
+    
+    <section id="prawy-panel">
+
+    </section>
+    
+    <section id="stopka">
+        <h3>Stronę opracował essaczmen</h3>
+    </section>
+</body>
+</html>
