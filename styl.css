@@ -1,0 +1,51 @@
+* {
+    font-family: 'Times New Roman';
+    text-align: center;
+    font-style: italic;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#main {
+    display: flex;
+}
+
+#baner {
+    background-color: lightpink;
+    height: 80px;
+    padding-top: 10px;
+}
+
+#lewy-panel {
+    background-color: lightpink;
+    height: 500px;
+    width: 20%;
+    font-size: 20px;
+}
+
+#prawy-panel {
+    background-color: black;
+    height: 500px;
+    width: 80%;
+    font-size: 30px;
+    color: lightpink;
+}
+
+#stopka {
+    background-color: lightpink;
+    height: 60px;
+}
+
+#gozdzik-lewy {
+    width: 180px;
+    height: 180px;
+}
+
+p {
+    margin: 50px;
+}
+
+input {
+    background-color: white;
+}
